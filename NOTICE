@@ -1,0 +1,23 @@
+This repository is an independent, paraphrased summary of architectural
+principles. It is not a copy of any book, and it is not affiliated with,
+authorised by, or endorsed by any author or publisher.
+
+The principles summarised here originate in:
+
+  Robert C. Martin
+  Clean Architecture: A Craftsman's Guide to Software Structure and Design
+  Prentice Hall, 2017
+  ISBN 978-0134494166
+
+Chapter references in SKILL.md (Ch 1 ... Ch 34) point to that work so a reader
+can consult the original argument in full. The wording in this repository is
+original; no passages are reproduced from the book.
+
+Concepts and principles are not themselves copyrightable, and several of the
+ideas summarised here - SOLID, dependency inversion, component cohesion and
+coupling - were published by the author and others in earlier articles and
+books. What this repository adds is a restatement shaped for use by coding
+agents, plus a review checklist and smell inventory.
+
+The MIT license in LICENSE applies to this repository's own text. It does not
+grant, and cannot grant, any rights in the source book or in any trade mark.
